@@ -25,9 +25,9 @@ Amo's Alert is a dynamic web application that revolutionizes news consumption by
 -  Responsive and interactive user interface
 -  Innovative 3D CSS transformations
 
-## Demo
+## Live Demo
 
-[Live Application](https://news-aggregator-95eh.onrender.com)
+[news-aggregator-demo/](https://news-aggregator-95eh.onrender.com)
 
 ## Technologies
 
