@@ -7,12 +7,10 @@ Amo's Alert is a dynamic web application that revolutionizes news consumption by
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
-- [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,9 +23,7 @@ Amo's Alert is a dynamic web application that revolutionizes news consumption by
 -  Responsive and interactive user interface
 -  Innovative 3D CSS transformations
 
-## Live Demo
 
-[news-aggregator-demo/](https://news-aggregator-95eh.onrender.com)
 
 ## Technologies
 
@@ -44,9 +40,6 @@ Amo's Alert is a dynamic web application that revolutionizes news consumption by
 
 ### API
 - [NewsAPI](https://newsapi.org/)
-
-### Deployment
-- Render
 
 ## Getting Started
 
@@ -105,13 +98,6 @@ The application uses NewsAPI to:
 - Fetch top headlines
 - Search news by keywords
 - Filter news by categories and sources
-
-## Deployment
-
-Deployed on Render with:
-- Gunicorn web server
-- Continuous integration from GitHub
-- Environment variable management
 
 ## Design Highlights
 
